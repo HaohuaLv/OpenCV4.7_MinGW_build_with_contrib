@@ -1,0 +1,1 @@
+# OpenCV4.7_MinGW_build_with_contrib
